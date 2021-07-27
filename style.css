@@ -770,9 +770,9 @@ header-------------------------- */
     .home-img{
         order: -1;
     }
-    /* .home-text, .home-img{ */
-        /* max-width: 300px; */
-    /* } */
+     .home-text, .home-img{ 
+         max-width: 300px; 
+     } 
     .home-text .btn{
         margin: 0 7px 15px;
     }  
