@@ -3,7 +3,7 @@
 
 This is my first portfolio website .
 
-I mainly use HTML CSS and JAVASCRIPT to create this webpage .
+I mainly used HTML CSS and JAVASCRIPT to create this webpage .
 
 
 
