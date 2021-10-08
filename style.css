@@ -16,8 +16,8 @@ variables -------*/
 --blur-dark: #18293c;
 --orange: #ffa500;
 --green-yellow:#cddc39;
---pink-light: #48C9B0;
---cyan-light: #aef1ee;
+--pink-light: #48C9B0;/*(it is a light green colour hex code)*/
+--cyan-light: #F1A9E9;/*it is a light pink colour hex code */
 --white: #ffffff;
 --white-alpha-40: rgba(255,255,255,0.40);
 --white-alpha-25: rgba(255,255,255,0.25);
